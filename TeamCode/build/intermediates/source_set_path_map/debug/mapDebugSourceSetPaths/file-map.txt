@@ -1,0 +1,25 @@
+org.firstinspires.ftc.teamcode.TeamCode-dashboard-0.4.16-0 /Users/paulsena/.gradle/caches/8.12/transforms/005a1f30c9aba72d5fef37fa7bc6c9b4/transformed/dashboard-0.4.16/res
+org.firstinspires.ftc.teamcode.TeamCode-OnBotJava-10.1.1-1 /Users/paulsena/.gradle/caches/8.12/transforms/190ca7224e89e8923400b2077aba9af6/transformed/OnBotJava-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-Inspection-10.1.1-2 /Users/paulsena/.gradle/caches/8.12/transforms/210f779438f67457bdbfa1c519355585/transformed/Inspection-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-appcompat-resources-1.2.0-3 /Users/paulsena/.gradle/caches/8.12/transforms/5bee21bee0ecc170ef1d0df1359bfd47/transformed/appcompat-resources-1.2.0/res
+org.firstinspires.ftc.teamcode.TeamCode-apriltag-2.1.0-4 /Users/paulsena/.gradle/caches/8.12/transforms/7997674ad22b8f801c1adb5e89f48b63/transformed/apriltag-2.1.0/res
+org.firstinspires.ftc.teamcode.TeamCode-core-1.6.0-5 /Users/paulsena/.gradle/caches/8.12/transforms/829bc776f5659a2bcc215025f286d489/transformed/core-1.6.0/res
+org.firstinspires.ftc.teamcode.TeamCode-zxing-android-embedded-4.3.0-6 /Users/paulsena/.gradle/caches/8.12/transforms/838226f75fc2e6d57b037c39b125271c/transformed/zxing-android-embedded-4.3.0/res
+org.firstinspires.ftc.teamcode.TeamCode-appcompat-1.2.0-7 /Users/paulsena/.gradle/caches/8.12/transforms/91382f4f9864a7a49d0e8d3b527f6335/transformed/appcompat-1.2.0/res
+org.firstinspires.ftc.teamcode.TeamCode-RobotServer-10.1.1-8 /Users/paulsena/.gradle/caches/8.12/transforms/953b46776063004c4c5ed44a0dfdc736/transformed/RobotServer-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-Hardware-10.1.1-9 /Users/paulsena/.gradle/caches/8.12/transforms/9d426d57a86b75a62c854b3b4a4bc487/transformed/Hardware-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-core-ktx-1.6.0-10 /Users/paulsena/.gradle/caches/8.12/transforms/b5354faf3114ad33b2ece481a8113221/transformed/core-ktx-1.6.0/res
+org.firstinspires.ftc.teamcode.TeamCode-Blocks-10.1.1-11 /Users/paulsena/.gradle/caches/8.12/transforms/b80187275bd9e781ad50f269ca095df8/transformed/Blocks-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-core-2.1.1-12 /Users/paulsena/.gradle/caches/8.12/transforms/ba0198a929284b47ff7244b639614411/transformed/core-2.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-opencv-repackaged-bundled-dylibs-4.10.0-A-13 /Users/paulsena/.gradle/caches/8.12/transforms/bf5a0cb89cfa1ec84bb84163aeb16658/transformed/opencv-repackaged-bundled-dylibs-4.10.0-A/res
+org.firstinspires.ftc.teamcode.TeamCode-FtcCommon-10.1.1-14 /Users/paulsena/.gradle/caches/8.12/transforms/c76fc6da44dc0cfe40761f12b3186d2c/transformed/FtcCommon-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-RobotCore-10.1.1-15 /Users/paulsena/.gradle/caches/8.12/transforms/ca480c0501882017c5acf92b777eab1c/transformed/RobotCore-10.1.1/res
+org.firstinspires.ftc.teamcode.TeamCode-annotation-experimental-1.1.0-16 /Users/paulsena/.gradle/caches/8.12/transforms/e9c20330bb4189f643a4ceb1f0a04731/transformed/annotation-experimental-1.1.0/res
+org.firstinspires.ftc.teamcode.TeamCode-debug-17 /Users/paulsena/Documents/Coding/Robot Controller 2024/FtcRobotController/build/intermediates/packaged_res/debug/packageDebugResources
+org.firstinspires.ftc.teamcode.TeamCode-pngs-18 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/build/generated/res/pngs/debug
+org.firstinspires.ftc.teamcode.TeamCode-resValues-19 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/build/generated/res/resValues/debug
+org.firstinspires.ftc.teamcode.TeamCode-mergeDebugResources-20 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+org.firstinspires.ftc.teamcode.TeamCode-mergeDebugResources-21 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+org.firstinspires.ftc.teamcode.TeamCode-debug-22 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/build/intermediates/merged_res/debug/mergeDebugResources
+org.firstinspires.ftc.teamcode.TeamCode-debug-23 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/src/debug/res
+org.firstinspires.ftc.teamcode.TeamCode-main-24 /Users/paulsena/Documents/Coding/Robot Controller 2024/TeamCode/src/main/res
